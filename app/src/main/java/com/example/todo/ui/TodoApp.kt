@@ -12,7 +12,6 @@ import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.Alignment
 import com.example.todo.viewmodel.TodoViewModel
-import com.example.todo.model.Todo
 
 @Composable
 fun TodoApp(viewModel: TodoViewModel) {
